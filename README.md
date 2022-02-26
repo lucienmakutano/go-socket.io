@@ -41,7 +41,7 @@ Please check more examples into folder in project for details. [Examples](https:
 
 ## FAQ
 
-Popular questions about this repository: 
+Thses are some of the popular questions about this repository:
 
 - Does this library supported socket.io version 2?
     - No, but if you want to, you can help to do it. Join us in community chat Telegram   
@@ -64,4 +64,4 @@ It contains the `engine.io` analog implementation of the original node-package. 
 
 ## License
 
-The 3-clause BSD License  - see [LICENSE](https://opensource.org/licenses/BSD-3-Clause) for more details
+The 3-clause BSD License  - see [LICENSE](https://opensource.org/licenses/BSD-3-Clause) for more details.
