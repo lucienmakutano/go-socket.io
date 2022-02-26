@@ -4,9 +4,9 @@
 [![Build Status](https://github.com/googollee/go-socket.io/workflows/Unit%20tests/badge.svg)](https://github.com/googollee/go-socket.io/actions/workflows/unittest.yaml)
 [![Go Report Card](https://goreportcard.com/badge/github.com/googollee/go-socket.io)](https://goreportcard.com/report/github.com/googollee/go-socket.io)
 
-go-socket.io is library an implementation of [Socket.IO](http://socket.io) in Golang, which is a realtime application framework.
+go-socket.io is a library implementation of [Socket.IO](http://socket.io) in Golang, which is a realtime application framework.
 
-Current this library supports 1.4 version of the Socket.IO client. It supports room, namespaces and broadcast at now.
+Currently this library supports 1.4 version of the Socket.IO client. It supports rooms, namespaces and broadcast for now.
 
 **Help wanted** This project is looking for contributors to help fix bugs and implement new features. Please check [Issue 192](https://github.com/googollee/go-socket.io/issues/192). All help is much appreciated.
 
@@ -41,15 +41,15 @@ Please check more examples into folder in project for details. [Examples](https:
 
 ## FAQ
 
-It is some popular questions about this repository: 
+Popular questions about this repository: 
 
-- Is this library supported socket.io version 2?
-    - No, but if you wanna you can help to do it. Join us in community chat Telegram   
+- Does this library supported socket.io version 2?
+    - No, but if you want to, you can help to do it. Join us in community chat Telegram   
 - How to use go-socket.io with CORS?
     - Please see examples in [directory](https://github.com/googollee/go-socket.io/tree/master/_examples)
-- What is minimal version Golang support for this library?
+- What is the minimal version Golang support for this library?
     - We required Go 1.9 or upper!
-- How to user?
+- How to use?
     - Go-socket.io compatibility with Socket.IO 0.9.x, please use branch 0.9.x * or tag go-socket.io@v0.9.1
 
 ## Community
